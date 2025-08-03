@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: ' Mücadeleler - Davalar / Strugles - Resistances',
+    title: ' Mücadeleler - Davalar / Struggles - Legal Cases',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
@@ -56,7 +56,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/kVzNNwyH/MEF-AAP-027-BAP-2025-08-03-12-02-13.png',
+            image: 'https://i.ibb.co/5Wj1T889/MEF-AAP-027-BAP-2025-08-03-13-46-47.png',
             description: '',
             location: {
                 center: [28.947,41.000],
